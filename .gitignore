@@ -1,0 +1,8 @@
+# Ignore all files in the 'data' directory
+data/
+
+# Ignore all files in the 'checkpoint' directory
+checkpoint/
+
+# Ignore the .vscode folder
+.vscode/
